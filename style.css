@@ -1,1 +1,37 @@
+body {
+  background-color: cream;
+}
 
+h1 {
+  color: red;
+  text-align: center;
+  font-family: "Cal Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+  font-family: "Cal Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h3 {
+  color: red;
+  text-align: center;
+  font-family: "Cal Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  color: black
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
